@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DevOpsDays Brasil</title>
+    <link>https://devopsdaysbrasil.github.io/posts/</link>
+    <description>Recent content in Posts on DevOpsDays Brasil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 14 Sep 2017 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://devopsdaysbrasil.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dicas para organizar um DevOpsDays</title>
+      <link>https://devopsdaysbrasil.github.io/posts/como_organizar_devopsdays/</link>
+      <pubDate>Thu, 14 Sep 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://devopsdaysbrasil.github.io/posts/como_organizar_devopsdays/</guid>
+      <description>Então você participou de um DevOpsDays, achou bacana e agora quer organizar um? Ou quem sabe nunca participou mas quer organizar?
+Antes de mais nada, indicamos que ouça o podcast gravado pelo Gomex.
+Aqui vão mais algumas dicas:
+ Comece pequeno, não há porque começar com 1000+ participantes. Comece a organizar o mais cedo o possível. Sinta-se livre para experimentar. Monte uma equipe extremamente variada.  Comece pequeno A menos que já tenhas MUITA experiência em organização de eventos (e com isso queremos dizer conhecer locais que vão comportar o evento, patrocinadores, pessoas para keynotes, empresas para coffee breaks, etc), e já tenha um capital de giro grande para &amp;ldquo;bancar&amp;rdquo; o evento antes mesmo de ter o dinheiro de volta, as chances de que o evento nem saia serão bem grandes caso queira começar por um evento gigantesco&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
